@@ -5,10 +5,9 @@
 
 3. Update the relevant `_extension.yml` files for the extensions you have modified with a new version number, e.g. `version: 1.0.4` to `version: 1.0.5`. For more major updates, change the middle version number, e.g. `version: 1.0.4` to `version: 1.1.0`. For the most major updates change the first digit of the version number.
 
-4. Update the top of the News.md file in the project top level folder with the new version name and 
-description of what has changed/added/removed.
+4. Update the top of the News.md file in the project top level folder with the new version name and description of what has changed/added/removed.
 
-5. Commit and push to GIT. Inform lead if it is ready to be QAd and merged.
+5. Commit and push to GIT. Create a pull request from your branch into development. Inform lead that the branch is ready to be QAd and merged.
 
 
 # Updating govuk HTML extension
