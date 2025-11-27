@@ -53,3 +53,10 @@ For guidance of making reports, charts and tables accessible, please see the [an
 
 ## Developer Notes: Updating GOV.UK CSS
 You can find the most up-to-date GOV.UK style on the [GDS](https://design-system.service.gov.uk/).
+
+
+## Next review date
+1st April 2026.
+
+# QA stauts
+Not applicable for templates.
