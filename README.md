@@ -58,5 +58,5 @@ You can find the most up-to-date GOV.UK style on the [GDS](https://design-system
 ## Next review date
 1st April 2026.
 
-# QA stauts
+## QA status
 Not applicable for templates.
